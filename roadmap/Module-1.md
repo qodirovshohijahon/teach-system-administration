@@ -1,4 +1,4 @@
-### Chapter 1: Starting with Linux 3
+### Chapter 1: Starting with Linux 
 
 - [x] Understanding What Linux Is 
 - [x] Understanding How Linux Differs from Other Operating Systems 
@@ -16,375 +16,117 @@
 - [x] Understanding how companies make money with Linux 
 - [x] Becoming Red Hat certified
 
-### Chapter 2: Creating the Perfect Linux Desktop 27
-Understanding Linux Desktop Technology 28
-Starting with the Fedora GNOME Desktop Live image 30
-
-Using the GNOME 3 Desktop 31
-
-After the computer boots up 31
-
-Setting up the GNOME 3 desktop 38
-
-Extending the GNOME 3 desktop 39
-
-Starting with desktop applications 41
-
-Stopping the GNOME 3 desktop 46
-
-Using the GNOME 2 Desktop 46
-
-Using the Metacity window manager 48
-
-Changing GNOME’s appearance 49
-
-Using the GNOME panels 50
-
-Adding 3D effects with AIGLX 54
-
-Summary 57
-
-Exercises 57
-
-Part II: Becoming a Linux Power User 59
-
-### Chapter 3: Using the Shell 61
-
-About Shells and Terminal Windows 62
-
-Using the shell prompt 63
-
-Using a Terminal window 63
-
-Using virtual consoles 65
-
-Choosing Your Shell 65
-
-Running Commands 66
-
-Understanding command syntax 67
-
-Locating commands 70
-
-Recalling Commands Using Command History 72
-
-Command-line editing 73
-
-Command-line completion 75
-
-Command-line recall 76
-
-Connecting and Expanding Commands 78
-
-Piping between commands 78
-
-Sequential commands 79
-
-Background commands 79
-
-Expanding commands 80
-
-Expanding arithmetic expressions 80
-
-Expanding variables 80
-
-Using Shell Variables 81
-
-Creating and using aliases 81
-
-Exiting the shell 83
-
-Creating Your Shell Environment 84
-
-Configuring your shell 84
-
-Setting your prompt 85
-
-Adding environment variables 87
-
-Getting Information about Commands 88
-
-Summary 90
-
-Exercises 90
-
-### Chapter 4: Moving Around the Filesystem 93
-
-Using Basic Filesystem Commands 96
-
-Using Metacharacters and Operators 98
-
-Using file-matching metacharacters 98
-
-Using file-redirection metacharacters 99
-
-Using brace expansion characters 101
-
-Listing Files and Directories 101
-
-Understanding File Permissions and Ownership 105
-
-Changing permissions with chmod (numbers) 106
-
-Changing permissions with chmod (letters) 107
-
-Setting default file permission with umask 108
-
-Changing file ownership 109
-
-Moving, Copying, and Removing Files 109
-
-Summary 111
-
-Exercises 111
-
-### Chapter 5: Working with Text Files 113
-
-Editing Files with vim and vi 113
-
-Starting with vi 115
-
-Skipping around in the file 119
-
-Searching for text 119
-
-Using ex mode 120
-
-Learning more about vi and vim 120
-
-Finding Files 120
-
-Using locate to find files by name 121
-
-Searching for files with find 122
-
-Searching in files with grep 128
-
-Summary 129
-
-Exercises 129
-
-### Chapter 6: Managing Running Processes 131
-
-Understanding Processes 131
-
-Listing Processes 132
-
-Listing processes with ps 132
-
-Listing and changing processes with top 134
-
-Listing processes with System Monitor 136
-
-Managing Background and Foreground Processes 137
-
-Starting background processes 138
-
-Using foreground and background commands 139
-
-Killing and Renicing Processes140
-
-Killing processes with kill and killall 140
-
-Setting processor priority with nice and renice 142
-
-Limiting Processes with cgroups 143
-
-Summary 144
-
-Exercises 145
+### Chapter 2: Creating the Perfect Linux Desktop
+
+- [x] Understanding Linux Desktop Technology
+- [x] Starting with the Fedora GNOME Desktop Live image 
+- [x] Using the GNOME 3 Desktop 
+- [x] After the computer boots up 
+- [x] Setting up the GNOME 3 desktop
+- [x] Extending the GNOME 3 desktop
+- [x] Starting with desktop applications
+- [x] Stopping the GNOME 3 desktop
+- [x] Using the GNOME 2 Desktop
+- [x] Using the Metacity window manager 
+- [x] Changing GNOME’s appearance
+- [x] Using the GNOME panels
+- [x] Adding 3D effects with AIGLX 
+
+### Chapter 3: Using the Shell
+
+- [x] About Shells and Terminal Windows
+- [x] Using the shell prompt 
+- [x] Using a Terminal window 
+- [x] Using virtual consoles 
+- [x] Choosing Your Shell 
+- [x] Running Commands 
+- [x] Understanding command syntax 
+- [x] Locating commands
+- [x] Recalling Commands Using Command History
+- [x] Command-line editing 
+- [x] Command-line completion
+- [x] Command-line recall 
+- [x] Connecting and Expanding Commands 
+- [x] Piping between commands 
+- [x] Sequential commands 
+- [x] Background commands 
+- [x] Expanding commands 
+- [x] Expanding arithmetic expressions
+- [x] Expanding variables 
+- [x] Using Shell Variables
+- [x] Creating and using aliases 
+- [x] Exiting the shell 
+- [x] Creating Your Shell Environment
+- [x] Configuring your shell
+- [x] Setting your prompt
+- [x] Adding environment variables
+- [x] Getting Information about Commands
+
+### Chapter 4: Moving Around the Filesystem
+
+- [x] Using Basic Filesystem Commands 
+
+- [x] Using Metacharacters and Operators 
+
+- [x] Using file-matching metacharacters 
+
+- [x] Using file-redirection metacharacters
+
+- [x] Using brace expansion characters
+
+- [x] Listing Files and Directories 
+
+- [x] Understanding File Permissions and Ownership 
+
+- [x] Changing permissions with chmod (numbers)
+
+- [x] Changing permissions with chmod (letters)
+
+- [x] Setting default file permission with umask
+
+- [x] Changing file ownership
+
+- [x] Moving, Copying, and Removing Files 
+
+
+### Chapter 5: Working with Text Files
+
+- [x] Editing Files with vim and vi 
+- [x] Starting with vi 
+- [x] Skipping around in the file 
+- [x] Searching for text 
+- [x] Using ex mode 
+- [x] Learning more about vi and vim
+- [x] Finding Files 
+- [x] Using locate to find files by name
+- [x] Searching for files with find
+- [x] Searching in files with grep 
+
+### Chapter 6: Managing Running Processes
+
+- [x] Understanding Processes
+- [x] Listing Processes 
+- [x] Listing processes with ps 
+- [x] Listing and changing processes with top 
+- [x] Listing processes with System Monitor 
+- [x] Managing Background and Foreground Processes 
+- [x] Starting background processes 
+- [x] Using foreground and background commands
+- [x] Killing and Renicing Processes
+- [x] Killing processes with kill and killall
+- [x] Setting processor priority with nice and renice
+- [x] Limiting Processes with cgroups
 
 ### Chapter 7: Writing Simple Shell Scripts 147
 
-Understanding Shell Scripts 147
+- [x] Understanding Shell Scripts
+- [x] Executing and debugging shell scripts 
+- [x] Understanding shell variables 
+- [x] Performing arithmetic in shell scripts 
+- [x] Using programming constructs in shell scripts 
+- [x] Trying some useful text manipulation programs
+- [x] Using simple shell scripts
 
-Executing and debugging shell scripts 148
-
-Understanding shell variables 149
-
-Performing arithmetic in shell scripts 152
-
-Using programming constructs in shell scripts 153
-
-Trying some useful text manipulation programs 159
-
-Using simple shell scripts 161
-
-Summary 163
-
-Exercises 163
-
-Part III: Becoming a Linux System Administrator 165
-
-### Chapter 8: Learning System Administration 167
-
-Understanding System Administration 167
-
-Using Graphical Administration Tools 169
-
-Using the root User Account 174
-
-Exploring Administrative Commands, Configuration Files, and Log Files 178
-
-Administrative commands 178
-
-Administrative configuration files 179
-
-Using Other Administrative Accounts 185
-
-Checking and Configuring Hardware 186
-
-Checking your hardware 187
-
-Managing removable hardware 189
-
-Working with loadable modules 191
-
-Summary 193
-
-Exercises 193
-
-### Chapter 9: Installing Linux 195
-
-Choosing a Computer 196
-
-Installing Fedora from Live Media 198
-
-Installing Red Hat Enterprise Linux from Installation Media 201
-
-Understanding Cloud-Based Installations 204
-
-Installing Linux in the Enterprise 205
-
-Exploring Common Installation Topics 207
-
-Upgrading or installing from scratch 207
-
-Dual booting 208
-
-Installing Linux to run virtually 209
-
-Using installation boot options 210
-
-Using specialized storage 213
-
-Partitioning hard drives 214
-
-Using the GRUB boot loader 217
-
-Summary 219
-
-Exercises 219
-
-### Chapter 10: Getting and Managing Software 221
-
-Managing Software on the Desktop 221
-
-Going Beyond the Software Window 223
-
-Understanding Linux RPM and DEB Software Packaging 224
-
-Understanding DEB packaging 225
-
-Understanding RPM packaging 226
-
-Managing RPM Packages with YUM 229
-
-Transitioning from yum to dnf 229
-
-Understanding how yum works 229
-
-Using YUM with third-party software repositories 233
-
-Managing software with the yum command 233
-
-Installing, Querying, and Verifying Software with the rpm Command 241
-
-Installing and removing packages with rpm 241
-
-Querying rpm information 242
-
-Verifying RPM packages 244
-
-Managing Software in the Enterprise 245
-
-Summary 246
-
-Exercises 247
-
-### Chapter 11: Managing User Accounts 249
-
-Creating User Accounts 249
-
-Adding users with useradd 252
-
-Setting user defaults 255
-
-Modifying users with usermod 257
-
-Deleting users with userdel 258
-
-Understanding Group Accounts 259
-
-Using group accounts 259
-
-Creating group accounts 260
-
-Managing Users in the Enterprise 261
-
-Setting permissions with Access Control Lists 262
-
-Centralizing User Accounts 269
-
-Summary 270
-
-Exercises 270
-
-### Chapter 12: Managing Disks and Filesystems 273
-
-Understanding Disk Storage 273
-
-Partitioning Hard Disks 275
-
-Understanding partition tables 275
-
-Viewing disk partitions 276
-
-Creating a single-partition disk 277
-
-Creating a multiple-partition disk 281
-
-Using Logical Volume Manager Partitions 285
-
-Checking an existing LVM 286
-
-Creating LVM logical volumes 289
-
-Growing LVM logical volumes 290
-
-Mounting Filesystems 291
-
-Supported filesystems 291
-
-Enabling swap areas 293
-
-Disabling swap area 294
-
-Using the fstab file to define mountable file systems 295
-
-Using the mount command to mount file systems 297
-
-Mounting a disk image in loopback 298
-
-Using the umount command 299
-
-Using the mkfs Command to Create a Filesystem 300
-
-Managing Storage with Cockpit 301
-
-Summary 303
-
-Exercises 303
 
 Part IV: Becoming a Linux Server Administrator 305
 
